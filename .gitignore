@@ -1,0 +1,8 @@
+node_modules
+settings.js
+public
+.env
+.vscode
+yarn-error.log
+.vscode
+.DS_Store
